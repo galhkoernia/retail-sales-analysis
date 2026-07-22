@@ -14,5 +14,5 @@
 
 ### Business Insight
 
-- Selama periode September 2003 hingga Maret 2004, Product Line dengan jumlah pesanan terbesar adalah **11083**.
+- Selama periode September 2003 hingga Maret 2004, Product Line dengan jumlah pesanan terbesar adalah **11,083 Units**.
 - Tingginya permintaan menunjukkan bahwa kategori tersebut memiliki tingkat minat pelanggan yang tinggi sehingga dapat menjadi fokus dalam pengelolaan persediaan dan strategi pemasaran.
