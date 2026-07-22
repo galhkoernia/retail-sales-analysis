@@ -1,5 +1,16 @@
 # Analisis Penjualan Global Retail
 
+# Teknologi
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-FFCA28?style=for-the-badge&logo=googleslides&logoColor=black)
+
 ## Deskripsi Proyek
 
 Proyek ini merupakan studi kasus analisis data penjualan sebuah perusahaan retail global. Sebagai seorang Data Analyst, tujuan utama proyek ini adalah menganalisis data transaksi penjualan untuk mengidentifikasi tren penjualan, pasar dengan performa terbaik, serta kategori produk yang paling diminati guna mendukung pengambilan keputusan bisnis.
@@ -246,4 +257,3 @@ Galuh Kurnia Pratama Mahasiswa Fisika – Universitas Negeri Surabaya
 
 # Contact :
 Email : galuh.23105@mhs.unesa.ac.id
-No. HP: +62 812-5985-3104
