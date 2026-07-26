@@ -9,7 +9,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-FFCA28?style=for-the-badge&logo=googleslides&logoColor=black)
 
 ## Deskripsi Proyek
 
