@@ -255,4 +255,5 @@ Berikut adalah tugas yang diberikan dalam program Data Analyst Bootcamp:
 Galuh Kurnia Pratama Mahasiswa Fisika – Universitas Negeri Surabaya
 
 # Contact :
-Email : galuh.23105@mhs.unesa.ac.id
+Email     : galuhkoernia@gmail.com
+Portfolio : https://galhkoernia.my.id/
